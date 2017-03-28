@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_829b0fbcc8ca0157ff1b5ea216f658f0e3e39801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/8027f6ba7be88291fbabdd90631c1ed29d233d55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5ac9ec624d7b552060044c1ca45905b9c0f3d85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/40fcef466364e259d55ee652e0a7b0b8f626824e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e15b89cb66e34875ebc61d5a9c4c2c5848b91bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/23dac42f8506b9c4f09206434dd65125c7e62110/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50f3a4b7eedb97617c056ebe968b9e3efc0894fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/d28dbf3c0253b27dc8ed86f0446aa593243a1593/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d519d4c2434497c62045bdc643043b1d79571e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/2aab32fbe17c3be467df129a18ddb65da47c0029/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a25908335d1505820fab01e51559cb80ffd4396a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_4f4b359372bcfa064ed3924bcb9abac8f7de353a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/Development/Chute/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37fc0d7f167001c5af3dae5d5063068fa5b4733f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/9dfe1f08756c36a779d2307ac4c41a6291af5431/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46f3c06934593857781b16b63b620bf53005ed10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/47657941c928db48e390af4c2638889e0a20c7f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be0477c2e3c9a87fc68086b0795e80d0885d2f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/3adddb0255bc289396ef7a2ffd1d97659eb49c43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8af334f46ef33fabb39044ac2b864a921022fbb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/63f5e4a3d5ed20c189ea8c74b7fc84cf6f063f39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7903f869055dda9c5a48a3ffe540141d3025575d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/Development/Chute/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffac80e2ea201087ef8aa062e5ef2b1e28884399">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f44e04c924c165c28cc5af8f2d62c99f1e046d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cawfree/.android/build-cache/4052d0cf3d5d7b7cf4619a5b814e8dc802c80b95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/cawfree/Development/Chute/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3865acaf10ecafe3fc0295ad11dd15b064558496/classes.dex" />
+    </item>
+
+</items>
