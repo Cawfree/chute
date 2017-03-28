@@ -1,5 +1,6 @@
 # chute
 *Why slow down your UI?* 
+
 Chute is a simple, flexible Android Threading architecture, useful for backgrounding computationally-intensive tasks.
 
 ## Background
