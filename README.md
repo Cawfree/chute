@@ -8,3 +8,9 @@ Chute contains a demonstration of how to decouple processing between the Android
 
 ## Instructions
 Download the repository and build the project using `./gradlew build`, and execute the `MainActivity`. Check the Logcat output to see how the application is segmented into different `Thread`s.
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/cawfree">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy @cawfree a coffee" width="232" height="50" />
+  </a>
+</p>
